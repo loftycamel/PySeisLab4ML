@@ -1,2 +1,2 @@
 # PySeisLab4ML
-a framework for seismic data processing and analysis
+a machine learning framework for seismic data processing and analysis
